@@ -1,0 +1,95 @@
+.reapeat {
+    width: 100%;
+    height: 600px;
+}
+
+.repeat1 {
+    width: 20%;
+    height: 300px;
+    margin: 50px 20px 0 20px;
+    border: 2px dashed black;
+    background-image: url(../images/BxZtwv3rZMNSzTakHxKV2Q.jpg);
+    background-size: 35% 35%;
+    background-repeat: repeat-x;
+    float: left;
+}
+
+.repeat2 {
+    width: 20%;
+    height: 300px;
+    margin: 50px 20px 0 20px;
+    border: 2px dashed black;
+    background-image: url(../images/BxZtwv3rZMNSzTakHxKV2Q.jpg);
+    background-size: 35% 35%;
+    background-repeat: repeat-y;
+    float: left;
+}
+
+.repeat3 {
+    width: 20%;
+    height: 300px;
+    margin: 50px 20px 0 20px;
+    border: 2px dashed black;
+    background-image: url(../images/BxZtwv3rZMNSzTakHxKV2Q.jpg);
+    background-size: 35% 35%;
+    background-repeat: repeat;
+    float: left;
+}
+
+.repeat4 {
+    width: 20%;
+    height: 300px;
+    margin: 50px 20px 0 20px;
+    border: 2px dashed black;
+    background-image: url(../images/BxZtwv3rZMNSzTakHxKV2Q.jpg);
+    background-size: 35% 35%;
+    background-repeat: space;
+    float: left;
+}
+
+.repeat5 {
+    width: 20%;
+    height: 300px;
+    margin: 50px 20px 50px 20px;
+    border: 2px dashed black;
+    background-image: url(../images/BxZtwv3rZMNSzTakHxKV2Q.jpg);
+    background-size: 35% 35%;
+    background-repeat: round;
+    float: left;
+}
+
+.repeat6 {
+
+    width: 20%;
+    height: 300px;
+    margin: 50px 20px 50px 20px;
+    border: 2px dashed black;
+    background-image: url(../images/BxZtwv3rZMNSzTakHxKV2Q.jpg);
+    background-size: 35% 35%;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.repeat7 {
+    width: 20%;
+    height: 300px;
+    margin: 50px 20px 50px 20px;
+    border: 2px dashed black;
+    background-image: url(../images/BxZtwv3rZMNSzTakHxKV2Q.jpg);
+    background-size: 35% 35%;
+    background-repeat: space repeat;
+    float: left;
+}
+
+.repeat8 {
+    width: 20%;
+    height: 300px;
+    margin: 50px 20px 50px 20px;
+    border: 2px dashed black;
+    background-image: url(../images/BxZtwv3rZMNSzTakHxKV2Q.jpg);
+    background-size: 35% 35%;
+    background-repeat: round space;
+    float: left;
+}
+
+epeat
